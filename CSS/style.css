@@ -4,7 +4,18 @@
 }
 
 body{
-    color: red;
+    color: rgb(123, 201, 87);
     text-align: center;
     font-family: "Arial";
+}
+
+#di2 {
+    width: 50%;
+    border: 1px solid green;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#sec1 h1 {
+    font-size: 25px;
 }
